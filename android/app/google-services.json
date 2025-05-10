@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395643530328",
+    "project_id": "mrbooi-eats-clone",
+    "storage_bucket": "mrbooi-eats-clone.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395643530328:android:36389ee9b047e87c606e2d",
+        "android_client_info": {
+          "package_name": "com.example.mrbooi_eats"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_BXQMQZZ6OzvSDTpD5wKAHU9ltfQI2ZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
