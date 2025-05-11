@@ -9,5 +9,5 @@ Future<void> bootstrap(FutureOr<Widget> Function() builder) async {
     WidgetsFlutterBinding.ensureInitialized();
     await Firebase.initializeApp();
     runApp(await builder());
-  }, (error, stack) => log('$error', name: 'Error', stackTrace: stack));
+  }, (error, stack) => log('$error', name: 'Error', stackTrace: stack),);
 }
